@@ -7,3 +7,13 @@ Deze leest aan de hand van zijn digitale poorten hoeveel poorten een signaal ont
 Dit scherm is een Grove-OLED Display 1.12".
 Om terug het aantal kabels te herberekenen moet op een knop geduwd worden om de ontvanger terug zijn poorten te controleren.
 
+Schakeling:
+In deze file kan de png teruggevonden worden om de schakeling te maken. 
+Voor de zekerheid wordt hier de poorten weergegeven die gebruikt moeten worden:
+Voor de kop:
+- poort 1=D4;
+- poort 2=D5;
+- poort 3=D6;
+- poort 4=D7;
+- poort 5=D8;
+- knop= D3;
