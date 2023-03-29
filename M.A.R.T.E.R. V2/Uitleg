@@ -1,0 +1,5 @@
+Deze versie is een vervolg op versie 1 waarbij hier geen knop meer aanwezig is om het aantal kabels opnieuw te detecteren.
+Deze code werkt automatisch en zal het aantal kabels weergegeven op het scherm automatisch veranderen wanneer een poort een signaal of geen signaal meer ontvangt.
+De staart stuurt nog steeds hetzelfde signaal door de draden naar de kop.
+
+
