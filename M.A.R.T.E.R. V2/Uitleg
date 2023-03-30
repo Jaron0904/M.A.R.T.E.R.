@@ -11,4 +11,11 @@ Voor de kop:
 - poort 3=D6;
 - poort 4=D7;
 - poort 5=D8;
-- knop= D3;
+
+Voor de staart:
+- poort 1=D6;
+- poort 2=D7;
+- poort 3=D8;
+- poort 4=D9;
+- poort 5=D10;
+
