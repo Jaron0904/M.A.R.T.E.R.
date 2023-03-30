@@ -18,10 +18,10 @@ Voor de kop:
 - poort 5=D8;
 - knop= D3;
 Voor de staart:
-- poort 1=6;
-- poort 2=7;
-- poort 3=8;
-- poort 4=9;
-- poort 5=10;
+- poort 1=D6;
+- poort 2=D7;
+- poort 3=D8;
+- poort 4=D9;
+- poort 5=D10;
 
 De gebruikte weerstand is 10kΩ.
