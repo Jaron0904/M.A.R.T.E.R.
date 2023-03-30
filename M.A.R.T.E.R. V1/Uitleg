@@ -9,7 +9,7 @@ Om terug het aantal kabels te herberekenen moet op een knop geduwd worden om de 
 
 Schakeling:
 In deze file kan de png teruggevonden worden om de schakeling te maken. 
-Voor de zekerheid wordt hier de poorten weergegeven die gebruikt moeten worden:
+Voor de zekerheid worden hier de poorten weergegeven die gebruikt moeten worden:
 Voor de kop:
 - poort 1=D4;
 - poort 2=D5;
@@ -17,3 +17,11 @@ Voor de kop:
 - poort 4=D7;
 - poort 5=D8;
 - knop= D3;
+Voor de staart:
+- poort 1=6;
+- poort 2=7;
+- poort 3=8;
+- poort 4=9;
+- poort 5=10;
+
+De gebruikte weerstand is 10kΩ.
