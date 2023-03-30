@@ -3,4 +3,7 @@ De 4 verschillende knoppen zijn Ok, Return, Left en Right. Deze code is niet tot
 Dit tablad is de 'Kabeltester'waarbij er gevraagd wordt aan de gebruiker hoeveel kabels hij/zij aangesloten heeft. Om het systeem dan werkend te krijgen moest een bepaald systeem gemaakt worden zodat de Arduino de kabels kan controleren. Dit bleek een heel moeilijk gegeven te zijn waardoor we snel overgestapt zijn naar de versies van M.A.R.T.E.R.
 De Arduino die gebruikt wordt is een Arduino Nano en het scherm is een Grove OLED Display 1.12". 
 In de Staart zou ook nog een Arduino ingebouwd moeten worden maar daarvoor werd niet meer aan verder gebouwd doordat zoals al gezegd geweest is een nieuwe en betere versie geboren was.
-De schakeling die hierbij hoort om het scherm te bedienen met de knoppen kan gezien worden in deze map. De twee ledjes zijn puur geïntegreerd als controle om te testen voor de code. 
+De schakeling die hierbij hoort om het scherm te bedienen met de knoppen kan gezien worden in deze map. De twee LEDjes zijn puur geïntegreerd als controle om te testen voor de code. 
+De weerstanden die gebruikt zijn hebben een waarde van:
+  - 10kΩ voor de knoppen 
+  - 220Ω voor de LEDjes
