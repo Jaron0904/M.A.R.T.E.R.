@@ -1,4 +1,4 @@
-### M.A.R.T.E.R.
+# M.A.R.T.E.R.
 This repository contains all code used for the development of the M.A.R.T.E.R. tool. All code was written in C++ with the intention on being used with Arduino Nano microcontrollers. The system itself is designed to test electrical wiring in a cosntruction setting.
 
 This repository contains the following iterations:
@@ -19,7 +19,7 @@ The third iteration automatically chekcs how many cables are connected and only 
 Bugs:
 - deducting cables is delayed in comparison to the addition
 
-Autor | Jaron Igodt, senior programmer at M.A.R.T.E.R. 
+### Autor | Jaron Igodt -- senior programmer at M.A.R.T.E.R. 
 
 
 
