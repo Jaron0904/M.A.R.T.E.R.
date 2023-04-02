@@ -1,22 +1,22 @@
 {
-    "name": "Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)",
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivs (CC-BY-NC-ND)",
     "priority": 1,
     "available": true,
-    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "description": "A creative commons license that bans commercial use and requires you to release any modified works under this license.",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "description": "The most restrictive creative commons license. This only allows people to download and share your work for no commercial gain and for no other purposes.",
     "categories": [
         "public",
         "data",
         "by",
         "nc",
-        "sa"
+        "nd"
     ],
     "labels": [
         "public",
         "cc",
         "by",
         "nc",
-        "sa"
+        "nd"
     ],
-    "key": "cc-by-nc-sa"
+    "key": "cc-by-nc-nd"
 }
