@@ -19,7 +19,7 @@ The third iteration automatically chekcs how many cables are connected and only 
 Bugs:
 - deducting cables is delayed in comparison to the addition
 
-#### Autor | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
+#### Author | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
 
 
 
