@@ -18,9 +18,6 @@ int controleplaats=1;
 int prevStatus=6;
 
 
-
-
-
 void setup(){
   pinMode(poort1, INPUT);
   pinMode(poort2, INPUT);
@@ -33,7 +30,6 @@ void setup(){
   SeeedGrayOled.init(SH1107G);
   SeeedGrayOled.setInverseDisplay();
   SeeedGrayOled.clearDisplay();
-  SeeedGrayOled.setVerticalMode();
   SeeedGrayOled.setTextXY(7, 0);
   SeeedGrayOled.setGrayLevel(15);
   SeeedGrayOled.putString("M.A.R.T.E.R.");
@@ -84,18 +80,18 @@ void loop(){
       SeeedGrayOled.setTextXY(8,5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("0");
-      SeeedGrayOled.setTextXY(10,-15);
+      SeeedGrayOled.setTextXY(10,14);
       SeeedGrayOled.setGrayLevel(15);
-      SeeedGrayOled.putString("kabels gevonden");
+      SeeedGrayOled.putString("gevonden kabels");
     }
     if (aantalkabels==1) {
-      SeeedGrayOled.setTextXY(6.5,2);
+      SeeedGrayOled.setTextXY(6.5,3.5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("Er is");
-      SeeedGrayOled.setTextXY(8,5);
+      SeeedGrayOled.setTextXY(8,5.5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("1");
-      SeeedGrayOled.setTextXY(10,5);
+      SeeedGrayOled.setTextXY(10,0);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("kabel gevonden");
     }
@@ -106,9 +102,9 @@ void loop(){
       SeeedGrayOled.setTextXY(8,5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("2");
-      SeeedGrayOled.setTextXY(10,-1);
+      SeeedGrayOled.setTextXY(10,14);
       SeeedGrayOled.setGrayLevel(15);
-      SeeedGrayOled.putString("kabels gevonden");
+      SeeedGrayOled.putString("gevonden kabels");
     }
     if (aantalkabels==3) {
       SeeedGrayOled.setTextXY(6.5,2);
@@ -117,9 +113,9 @@ void loop(){
       SeeedGrayOled.setTextXY(8,5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("3");
-      SeeedGrayOled.setTextXY(10,-1);
+      SeeedGrayOled.setTextXY(10,14);
       SeeedGrayOled.setGrayLevel(15);
-      SeeedGrayOled.putString("kabels gevonden");
+      SeeedGrayOled.putString("gevonden kabels");
     }
     if (aantalkabels==4) {
       SeeedGrayOled.setTextXY(6.5,2);
@@ -128,9 +124,9 @@ void loop(){
       SeeedGrayOled.setTextXY(8,5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("4");
-      SeeedGrayOled.setTextXY(10,-1);
+      SeeedGrayOled.setTextXY(10,14);
       SeeedGrayOled.setGrayLevel(15);
-      SeeedGrayOled.putString("kabels gevonden");
+      SeeedGrayOled.putString("gevonden kabels");
     }
     if (aantalkabels==5) {
       SeeedGrayOled.setTextXY(6.5,2);
@@ -139,11 +135,12 @@ void loop(){
       SeeedGrayOled.setTextXY(8,5);
       SeeedGrayOled.setGrayLevel(15);
       SeeedGrayOled.putString("5");
-      SeeedGrayOled.setTextXY(10,-1);
+      SeeedGrayOled.setTextXY(10,14);
       SeeedGrayOled.setGrayLevel(15);
-      SeeedGrayOled.putString("kabels gevonden");
+      SeeedGrayOled.putString("gevonden kabels");
     } 
     }
+    delay(500);
   }
 
 
