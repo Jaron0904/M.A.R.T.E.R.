@@ -6,3 +6,15 @@ Hierdoor zal voor ideale werking de kabels vervangen moeten worden door kabels d
 
 Schakeling:
 Aan iedere LED wordt een 220ohm weerstand gehangen.
+Aansluitingen LED:
+  - D11
+  - D9
+  - D7
+  - D5
+  - D3
+Aansluitingen kabels:
+  - D12
+  - D10
+  - D8
+  - D6
+  - D4
