@@ -23,6 +23,14 @@ Bugs:
 A variation on S-M.A.R.T.E.R. that gives feedback to the user with LED's. This variation don't need an OLED display to display how many cables are working well. 
 So for each cable that can be checked is an LED implement on the Arduino.
 
+Bugs:
+- Better operation requires better cables so that they are better insulated.
+
+## FINALE
+For the last test in this semester are some little changes done to the code and the electric circuit. 
+A computer is no longer required for the electrical supply, but the arduino is powered by a 9v battery.
+An LED has also been added so that the head can also be used as a flashlight.
+
 #### Author | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
 
 
