@@ -20,16 +20,16 @@ Bugs:
 - deducting cables is delayed in comparison to the addition
 
 ## N.E.R.T.S.
-A variation on S-M.A.R.T.E.R. that gives feedback to the user with LED's. This variation don't need an OLED display to display how many cables are working well. 
-So for each cable that can be checked is an LED implement on the Arduino.
+A variation on S-M.A.R.T.E.R. that gives feedback to the user with LED's. This variation doesn't need an OLED display to display how many cables are working correctly. 
+This means that a corresponding amount of LEDs has to be added to the arduino according to the amount of cables that have to be tested.
 
 Bugs:
-- Better operation requires better cables so that they are better insulated.
+- Sometimes faulty feedback is returned due to poor soldering connections or badly insulated cables.
 
 ## FINALE
-For the last test in this semester are some little changes done to the code and the electric circuit. 
-A computer is no longer required for the electrical supply, but the arduino is powered by a 9v battery.
-An LED has also been added so that the head can also be used as a flashlight.
+Final tweaks and updates to both the software and hardware to be implimented in the final prototype. 
+The power supply has been changed to a replaceable 9V battery.
+An LED has also been added so that the head as well so it can also be used as a flashlight.
 
 #### Author | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
 
