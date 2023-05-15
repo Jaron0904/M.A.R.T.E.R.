@@ -20,6 +20,8 @@ Bugs:
 - deducting cables is delayed in comparison to the addition
 
 ## N.E.R.T.S.
+A variation on S-M.A.R.T.E.R. that gives feedback to the user with LED's. This variation don't need an OLED display to display how many cables are working well. 
+So for each cable that can be checked is an LED implement on the Arduino.
 
 #### Author | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
 
