@@ -1,8 +1,8 @@
 Bij deze versie van M.A.R.T.E.R. wordt getest of het mogelijk is om het aantal kabels niet 
 via een OLED scherm weer te geven maar via 5 simpele LED's waarbij iedere LED voor een ingang van een kabel staat.
 Dat betekent dus als er 3 werkende kabels aangesloten zijn er ook 3 LED's gaan oplichten.
-Een probleem hierbij is dat de LED's voor wat storing zorgen in de kabels die de andere Arduino proberen in te lezen. 
-Hierdoor zal voor ideale werking de kabels vervangen moeten worden door kabels die meer geïsoleerd zijn van de andere kabels.
+Een probleem hierbij is dat de LED's voor wat storing zorgen in naburige kabels. 
+Hierdoor zullen voor een ideale werking de kabels vervangen moeten worden door beter geïsoleerde exemplaren.
 
 Schakeling:
 Aan iedere LED wordt een 220ohm weerstand gehangen.
