@@ -1,9 +1,9 @@
-Om deze code te gebruiken zijn 2 Arduino Nano's nodig die elk een apart gecodeerd zijn. 
-De ene Arduino wordt in de kop ingebouwd en de andere wordt ingebouwd in de staart. 
-De code op de Arduino in de staart stuurt continu een hoog signaal over 5 verschillende digitale poorten. Om deze reden wordt deze Arduino de zendstation genoemd.
-Deze 5 poorten dienen om gebruikt te worden door elektriciteitskabels. Er is dus de mogelijkheid om 1-5 kabels in 1 keer aan te sluiten.
-Aan de andere zeide van de kabels is er de kop die de ontvanger wordt genoemd.
-Deze leest aan de hand van zijn digitale poorten hoeveel poorten een signaal ontvangen. Door een optelsom wordt dan het aantal kabels weergegeven via een aangesloten OLED-scherm.
+Om deze code te gebruiken zijn 2 Arduino Nano's nodig die elk apart gecodeerd zijn. 
+De ene Arduino wordt in de kop ingebouwd en de andere in de staart. 
+De code op de Arduino in de staart stuurt continu een hoog signaal over 5 verschillende digitale poorten. Om deze reden wordt deze Arduino het zendstation genoemd.
+Deze 5 poorten dienen om gebruikt te worden als aansluiting voor elektriciteitskabels. Er is dus de mogelijkheid om 1-5 kabels in 1 keer aan te sluiten.
+Aan de andere zijde van de kabels bevindt zich dan de kop die de ontvanger wordt genoemd.
+Deze leest via zijn digitale poorten in, hoeveel er een signaal ontvangen. Door een optelsom te maken, wordt dan het aantal kabels weergegeven via een aangesloten OLED-scherm.
 Dit scherm is een Grove-OLED Display 1.12".
 Om terug het aantal kabels te herberekenen moet op een knop geduwd worden om de ontvanger terug zijn poorten te controleren.
 
