@@ -1,10 +1,11 @@
-Deze versie is een vervolg op versie 1 waarbij hier geen knop meer aanwezig is om het aantal kabels opnieuw te detecteren.
-Deze code werkt automatisch en zal het aantal kabels weergegeven op het scherm automatisch veranderen wanneer een poort een signaal of geen signaal meer ontvangt.
+Deze versie is een iteratie op versie 1, waarbij geen knop meer aanwezig is om het aantal aangesloten kabels manueel te laten controleren.
+Deze code werkt automatisch en zal het aantal kabels weergegeven op het scherm en deze automatisch updaten, wanneer een poort al dan niet een signaal ontvangt.
 De staart stuurt nog steeds hetzelfde signaal door de draden naar de kop.
 
 Schakeling:
-In deze file kan de png teruggevonden worden om de schakeling te maken. 
-Voor de zekerheid wordt hier de poorten weergegeven die gebruikt moeten worden:
+In deze file kan de .png teruggevonden worden om makkelijker de schakeling te kunnen maken. 
+Voor de zekerheid worden hier de poorten weergegeven die gebruikt moeten worden:
+
 Voor de kop:
 - poort 1=D4;
 - poort 2=D5;
