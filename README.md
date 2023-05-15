@@ -14,10 +14,12 @@ Bugs:
 - deducting cables is delayed in comparison to the addition
 
 ## S-M.A.R.T.E.R.
-The third iteration automatically chekcs how many cables are connected and only updates the screen when a change has been made
+The third iteration automatically checks how many cables are connected and only updates the screen when a change has been made
 
 Bugs:
 - deducting cables is delayed in comparison to the addition
+
+## N.E.R.T.S.
 
 #### Author | Jaron Igodt - senior programmer at M.A.R.T.E.R. 
 
