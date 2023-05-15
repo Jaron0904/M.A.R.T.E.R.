@@ -1,7 +1,7 @@
 Om de laatste gebruikerstesten uit te voeren met M.A.R.T.E.R. werd de code wat aangepast.
-De aanpassingen die gedaan werden zijn:
-  - In alle vorige codes werd steeds getest op 5 kabels maar dit is gereduceerd naar 3 kabels
+De gemaakte aanpassingen zijn:
+  - In  vorige codes werd steeds getest op 5 kabels maar dit is gereduceerd tot 3 kabels
         - De kop stuurt maar over 3 digitale poorten een signaal uit
         - De staart leest maar over 3 digitale poorten het singaal in
   - De voedingsspanning komt niet langer van een computer maar van een 9V batterij
-  - In de kop is een extra schakelaar voorzien zodat er een LED aangestoken wordt die dan dient als zaklamp
+  - In de kop is een extra schakelaar voorzien om een LED aan te sturen die dienst doet als zaklamp.
