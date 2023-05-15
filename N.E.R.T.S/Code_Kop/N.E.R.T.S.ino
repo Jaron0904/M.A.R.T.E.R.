@@ -10,7 +10,7 @@ const int led1= 11;
 const int led2= 9;
 const int led3= 7;
 const int led4= 5;
-const int led5= 5;
+const int led5= 3;
 
 int aantalkabels=0;
 int statuspoort1=0;
