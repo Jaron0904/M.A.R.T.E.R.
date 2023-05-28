@@ -1,5 +1,5 @@
 # M.A.R.T.E.R.
-This repository contains all code used for the development of the M.A.R.T.E.R. tool. All code was written in C++ with the intention on being used with Arduino Nano microcontrollers. The system itself is designed to test electrical wiring in a cosntruction setting.
+This repository contains all code used for the development of the M.A.R.T.E.R. tool. All code was written in C++ with the intention on being used with Arduino Nano microcontrollers. The system itself is designed to test electrical wiring in a construction setting. The workflow that was initially intended to be built on the OLED-screen can be found on ProtoPie: https://cloud.protopie.io/p/e0336c8a9235a06a891ad1d0?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true
 
 This repository contains the following iterations:
 
